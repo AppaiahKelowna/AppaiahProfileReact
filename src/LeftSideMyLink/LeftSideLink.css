@@ -1,0 +1,24 @@
+.left-side-wrapper {
+    background-color: aliceblue;
+    flex: 3;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 4px solid red;
+}
+
+p {
+    color: red;
+}
+
+h1 {
+    color: #00858A;
+}

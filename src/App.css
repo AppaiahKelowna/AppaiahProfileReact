@@ -1,0 +1,21 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.profileWrapper {
+  display: flex;
+  flex-direction: row;
+}
+
+.bodyWrapper {
+  border: 1px solid #ccc;
+  width: 120vh;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  padding-top: 4rem;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.2);
+}
