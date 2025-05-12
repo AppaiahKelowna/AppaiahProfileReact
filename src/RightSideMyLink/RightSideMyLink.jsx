@@ -7,6 +7,7 @@ const RightSideMyLink = () => {
 
     const addNewLink = () => {
         // add <ProfileLink/> to the list below
+        //
         setList([_list,"new item"]);
     }
     console.log(_list);
